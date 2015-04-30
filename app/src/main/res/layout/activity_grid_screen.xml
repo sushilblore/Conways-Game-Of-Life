@@ -2,9 +2,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.quandoo.gameoflife.gameoflife.GridScreenActivity">
+    tools:context="com.mygame.gameoflife.gameoflife.GridScreenActivity">
 
-    <com.quandoo.gameoflife.ui.MyGridView
+    <com.mygame.gameoflife.ui.MyGridView
         android:id="@+id/mygridview"
         android:layout_centerInParent="true"
         android:layout_centerHorizontal="true"
